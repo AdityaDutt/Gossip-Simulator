@@ -1,6 +1,7 @@
-# Proj2
+# Gossip Simulator
 
-**TODO: Add description**
+Implementation of gossip protocols for information dissemination in a network with different kinds of topologies. 
+
 
 ## Installation
 
